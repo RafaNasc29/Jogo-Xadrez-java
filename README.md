@@ -9,7 +9,7 @@ Algumas informações sobre o projeto:
 
 -> Professores: Daniele Rodrigues / Leandro Xastre
 
--> Alunos: Júlio César Moura (RA: 20126231) e Rafael Nascimento (RA: 20015558)
+-> Alunos: Júlio César Moura (RA: 20126231 || GitHub:Juliomoura99) e Rafael Nascimento (RA: 20015558 || GitHub:RafaelCOSTANascimento)
 
 ** Para executar o programa:
 
